@@ -1,0 +1,157 @@
+@charset "utf-8";
+
+		.c_img{
+			background-image:url(./../../img/caption/4.jpg);
+			background-size:750px;
+			background-position:0 -50px;
+		}
+		.c_img1{
+			background-image:url(./../../img/caption/11.jpg);
+			background-position:0 -20px;
+			background-size:100%;
+			background-repeat:no-repeat;
+		}
+		
+		.c_img2{
+			background-image:url(./../../img/caption/22.jpg);
+			background-position:50px -15px;
+			background-size:80%;
+			background-repeat:no-repeat;
+		}
+		.c_img3{
+			background-image:url(./../../img/caption/33.jpg);
+			background-position:25px 0;
+			background-size:80%;
+			background-repeat:no-repeat;
+		}
+		.c_img4{
+			background-image:url(./../../img/caption/44.jpg);
+			background-position:25px 0;
+			background-size:80%;
+			background-repeat:no-repeat;
+		}
+		.c_img5{
+			background-image:url(./../../img/caption/55.jpg);
+			background-position:25px 0;
+			background-size:80%;
+			background-repeat:no-repeat;
+		}
+		.c_img6{
+			background-image:url(./../../img/caption/66.jpg);
+			background-position:0 0;
+			background-size:100%;
+			background-repeat:no-repeat;
+		}
+		.c_img7{
+			background-image:url(./../../img/caption/77.jpg);
+			background-position:50px -10px;
+			background-size:60%;
+			background-repeat:no-repeat;
+		}
+		.c_img8{
+			background-image:url(./../../img/caption/88.jpg);
+			background-position:0 0;
+			background-size:100%;
+			background-repeat:no-repeat;
+		}
+		.c_img9{
+			background-image:url(./../../img/caption/99.jpg);
+			background-position:0 0;
+			background-size:100%;
+			background-repeat:no-repeat;
+		}
+		.c_img0{
+			background-image:url(./../../img/caption/00.jpg);
+			background-position:0 0;
+			background-size:100%;
+			background-repeat:no-repeat;
+			
+		}
+
+		#banner :nth-child(2){
+			background-image:url(./../../img/banner/1.jpg);
+			background-size:230px;
+			background-repeat:no-repeat;
+			border-radius:3em;
+			border:solid 1px #FF6232;
+			box-shadow:0px 0px 3px #FF5E19;
+		}
+		#banner :nth-child(3){
+			background-image:url(./../../img/banner/2.jpg);
+			background-size:230px;
+			background-repeat:no-repeat;
+			border-radius:3em;
+			border:solid 1px #FF6232;
+			box-shadow:0px 0px 3px #F00;
+		}
+		#banner :nth-child(4){
+			background-image:url(./../../img/banner/3.jpg);
+			background-size:230px;
+			background-repeat:no-repeat;
+			border-radius:3em;
+			border:solid 1px #FF6232;
+			box-shadow:0px 0px 3px #FF5E19;
+		}
+		#banner :nth-child(5){
+			background-image:url(./../../img/banner/4.jpg);
+			background-size:230px;
+			background-repeat:no-repeat;
+			border-radius:3em;
+			border:solid 1px #FF6232;
+			box-shadow:0px 0px 3px #FF5E19;
+		}
+		
+		#contents .img1{
+			background-image:url(./../../img/contents/7.jpg);
+			background-repeat:no-repeat;
+			background-position:0px 0px;
+			background-size:100%;
+		}
+		#contents .img2{
+			background-image:url(./../../img/contents/2.jpg);
+			background-repeat:no-repeat;
+			background-position:0px 0px;
+			background-size:100%;
+		}
+		#contents .img3{
+			background-image:url(./../../img/contents/3.jpg);
+			background-repeat:no-repeat;
+			background-position:0px 0px;
+			background-size:100%;
+		}
+		#contents .img4{
+			background-image:url(./../../img/contents/4.png);
+			background-repeat:no-repeat;
+			background-position:0px 0px;
+			background-size:100%;
+		}
+		#contents .img5{
+			background-image:url(./../../img/contents/5.jpg);
+			background-repeat:no-repeat;
+			background-position:0px 0px;
+			background-size:100%;
+		}
+		#contents .img6{
+			background-image:url(./../../img/contents/6.jpg);
+			background-repeat:no-repeat;
+			background-position:0px 0px;
+			background-size:100%;
+		}
+		#contents .img7{
+			background-image:url(./../../img/contents/1.jpg);
+			background-repeat:no-repeat;
+			background-position:0px 0px;
+			background-size:100%;
+		}
+		#contents .img8{
+			background-image:url(./../../img/contents/8.jpg);
+			background-repeat:no-repeat;
+			background-position:0px 0px;
+			background-size:100%;
+		}
+		#contents .img9{
+			background-image:url(./../../img/contents/9.jpg);
+			background-repeat:no-repeat;
+			background-position:0px 0px;
+			background-size:100%;
+		}
